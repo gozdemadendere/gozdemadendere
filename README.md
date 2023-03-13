@@ -9,6 +9,6 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 ✨ This github will be a collection of my personal datascience and programming projects.
 
 
-You can reach me via e-mail at: gozdebarinn@gmail.com
+📫 You can reach me via e-mail at: gozdebarinn@gmail.com
 
 📫 LinkedIn: linkedin.com/in/gozdebarin/
