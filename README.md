@@ -8,9 +8,6 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 
 ✨ This github will be a collection of my personal datascience and programming projects.
 
-<>
-
-[![e-mail]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))][[1](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZdBHdfVJrqcfJRZZDlwtWtDVrPnrbkJfXnFfvjTfzdZKWXstPhpTPsdpRsBnwmxlWnFkg)]
 
 You can reach me via e-mail at: gozdebarinn@gmail.com
 
