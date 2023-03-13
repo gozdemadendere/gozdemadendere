@@ -9,7 +9,7 @@ Studied Statistics and completed Bachelor of Science in this field.
 
 Passionate about analyzing, evaluating, and visualizing datasets to answer questions or solve problems.
 
-✨ This github will be a collection of my personal datascience and programming projects.
+✨ This github will be a collection of my personal Data Science and programming projects.
 
 
 📫 You can reach me via e-mail at: gozdebarinn@gmail.com
