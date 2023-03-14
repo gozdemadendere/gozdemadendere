@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there I'm Gözde 👋</h2>
+<h2 align="left">Hi there I'm Gözde 👋</h2>
 
 I'm a Data Scientist/Analyst who develops her programming skills with Python and SQL while attending an intensive & full-time Data Science Bootcamp.
 
