@@ -1,15 +1,15 @@
 
 <h2 align="left">Hi there I'm Gözde 👋</h2>
 
-I'm a Data Scientist/Analyst who develops her programming skills with Python and SQL while attending an intensive & full-time Data Science Bootcamp.
+• I'm a Data Scientist/Analyst who develops her programming skills with Python and SQL while attending an intensive & full-time Data Science Bootcamp.
 
-3 years of experience in data analysis and interpretation mostly using Excel.
+• 3 years of experience in data analysis and interpretation mostly using Excel.
 
-Studied Statistics and completed Bachelor of Science in this field.
+• Studied Statistics and completed Bachelor of Science in this field.
 
-Passionate about analyzing, evaluating, and visualizing datasets to answer questions or solve problems.
+• Passionate about analyzing, evaluating, and visualizing datasets to answer questions or solve problems.
 
-This github will be a collection of my personal Data Science and programming projects.
+• This Github contains my Data Science portfolio projects using SQL, Python, Tableau.
 
 
 
