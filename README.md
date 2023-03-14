@@ -9,7 +9,7 @@
 
 • Passionate about analyzing, evaluating, and visualizing datasets to answer questions or solve problems.
 
-• This Github contains my Data Science portfolio projects using SQL, Python, Tableau.
+• This Github contains my Data Science portfolio projects using Python, SQL, Tableau.
 
 
 
