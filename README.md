@@ -9,7 +9,7 @@
 
 • Passionate about analyzing, evaluating, and visualizing datasets to answer questions or solve problems.
 
-• This Github contains my Data Science portfolio projects using Python, SQL, Tableau, Machine Learning Algorithms.
+• This Github contains my Data Science/Analysis projects using Python, SQL, Tableau, Machine Learning Algorithms.
 
 
 <h3 align="left">Languages and Tools:</h3>
