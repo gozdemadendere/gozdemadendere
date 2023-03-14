@@ -9,8 +9,9 @@
 
 • Passionate about analyzing, evaluating, and visualizing datasets to answer questions or solve problems.
 
-• This Github contains my Data Science portfolio projects using Python, SQL, Tableau.
+• This Github contains my Data Science portfolio project using Python, SQL, Tableau, Machine Learning Algorithms.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelcloud&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
