@@ -1,7 +1,7 @@
 
 ### Hi there I'm Gözde 👋
 
-I'm a Data Scientist/Analyst who develops her programming skills with Python and SQL while attending in an intensive & full-time Data Science Bootcamp.
+I'm a Data Scientist/Analyst who develops her programming skills with Python and SQL while attending an intensive & full-time Data Science Bootcamp.
 
 3 years of experience in data analysis and interpretation mostly using Excel.
 
