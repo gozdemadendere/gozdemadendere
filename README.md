@@ -12,13 +12,11 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 ✨ This github will be a collection of my personal Data Science and programming projects.
 
 
-📫 You can reach me via e-mail at: gozdebarinn@gmail.com
 
-📫 LinkedIn: linkedin.com/in/gozdebarin/
 
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<br />
 
-[linkedin]: [https://www.linkedin.com/in/gozdebarin/]
+📫 e-mail: gozdebarinn@gmail.com
+
+📫 LinkedIn: linkedin.com/in/gozdebarin/
