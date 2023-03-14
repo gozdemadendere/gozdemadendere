@@ -15,7 +15,7 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 
 
 
-## Connect with me:
+### Connect with me:
 
 📫 e-mail: gozdebarinn@gmail.com
 
