@@ -17,4 +17,6 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 📫 LinkedIn: linkedin.com/in/gozdebarin/
 
 
-1[gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+## Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
