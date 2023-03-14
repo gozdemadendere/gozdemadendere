@@ -15,3 +15,6 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 📫 You can reach me via e-mail at: gozdebarinn@gmail.com
 
 📫 LinkedIn: linkedin.com/in/gozdebarin/
+
+
+1[gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
