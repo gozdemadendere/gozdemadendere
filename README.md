@@ -18,5 +18,7 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/gozdebarin/)" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
+
+[linkedin]: [https://www.linkedin.com/in/indrajeet-nikam-3737a8101/](https://www.linkedin.com/in/gozdebarin/)
