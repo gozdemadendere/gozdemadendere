@@ -1,5 +1,5 @@
 
-### Hi there I'm Gözde 👋
+<h1 align="center">Hi there I'm Gözde 👋</h1>
 
 I'm a Data Scientist/Analyst who develops her programming skills with Python and SQL while attending an intensive & full-time Data Science Bootcamp.
 
@@ -14,7 +14,9 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="python" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-1024.png" alt="mysql" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/gozdebarin" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" alt="mysql" width="40" height="40"/> </a> 
+  
+ </a> </p>
 
 
 📫 e-mail: gozdebarinn@gmail.com
@@ -22,6 +24,6 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gozdebarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gozdebarin" height="30" width="40" /></a>
-<a href="https://medium.com/@gozdebarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gozdebarin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gozdebarin" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-1024.png" alt="gozdebarin" height="30" width="40" /></a>
+<a href="https://medium.com/@gozdebarin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-1024.png" alt="@gozdebarin" height="30" width="40" /></a>
 </p>
