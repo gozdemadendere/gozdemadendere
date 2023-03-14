@@ -9,7 +9,7 @@ Studied Statistics and completed Bachelor of Science in this field.
 
 Passionate about analyzing, evaluating, and visualizing datasets to answer questions or solve problems.
 
-✨ This github will be a collection of my personal Data Science and programming projects.
+This github will be a collection of my personal Data Science and programming projects.
 
 
 
@@ -19,11 +19,12 @@ Passionate about analyzing, evaluating, and visualizing datasets to answer quest
  </a> </p>
 
 
-📫 e-mail: gozdebarinn@gmail.com
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gozdebarin" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-1024.png" alt="gozdebarin" height="30" width="40" /></a>
-<a href="https://medium.com/@gozdebarin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-1024.png" alt="@gozdebarin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gozdebarin" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="gozdebarin" height="40" width="40" /></a>
+<a href="https://medium.com/@gozdebarin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-1024.png" alt="@gozdebarin" height="40" width="40" /></a> <a href="[https://medium.com/@gozdebarin](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmlnSlpSbnWdphFdRsLTNpXlDsHKsJPwTpWjmmTqrqJLbbGCBJxngnvqfkbVLrFffntkDw)" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/zohanimasi-bundle-2/512/Gmail-1024.png" alt="@gozdebarin" height="40" width="40" /></a>
 </p>
+
+
+
+
