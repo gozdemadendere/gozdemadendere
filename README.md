@@ -11,12 +11,14 @@
 
 • This Github contains my Data Science/Analysis projects using Python, SQL, Tableau, Machine Learning Algorithms.
 
+________________________
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="python" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-1024.png" alt="mysql" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/gozdebarin" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" alt="mysql" width="40" height="40"/> </a> 
   
  </a> </p>
 
+________________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
