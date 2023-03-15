@@ -5,9 +5,9 @@
 
 • 3 years of experience in data analysis and interpretation mostly using Excel.
 
-• Studied Statistics and completed Bachelor of Science in this field.
-
 • Passionate about analyzing, evaluating, and visualizing datasets to answer questions or solve problems.
+
+• Studied Statistics and completed Bachelor of Science in this field.
 
 • This Github contains my Data Science/Analysis projects using Python, SQL, Tableau, Machine Learning Algorithms.
 
