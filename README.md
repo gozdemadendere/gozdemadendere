@@ -9,11 +9,13 @@
 
 • Studied Statistics and completed Bachelor of Science in this field.
 
+• I love doing yoga, traveling and coding.
+
 ________________________
 
 This Github contains my Data Science/Analysis projects using Python, SQL, Tableau, Machine Learning Algorithms.
 
-You can see all **my portfolio projects** here : https://github.com/gozdebarin/My_Portfolio_Projects
+📌 You can see all **my portfolio projects** here : https://github.com/gozdebarin/My_Portfolio_Projects
 
 ________________________
 
