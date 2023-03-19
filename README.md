@@ -1,15 +1,17 @@
 
-<h2 align="left">Hi there I'm Gözde </h2>
+<h2 align="left">Hi there I'm Gözde 👋 </h2>
 
-• I'm a Data Scientist/Analyst who develops her programming skills using Python and SQL while attending an intensive & full-time Data Science Bootcamp.
+• I'm a Data Scientist / Data Analyst.
 
-• 3 years of experience in data analysis and interpretation mostly using Excel.
+• After more than 3 years of experience in data analysis and interpretation, I've gained numerical and analytical skills, strong Excel skills, and also developed my communication and teamwork skills.
 
-• Passionate about analyzing, evaluating, and visualizing data sets to answer questions or solve problems.
+• I've always had a strong passion for improving my programming skills using Python and SQL, and I achieved this while attending an intensive & full-time Data Science Bootcamp at WBS Coding School.
 
-• Studied Statistics and completed Bachelor of Science degree in this field.
+• Successfully completed 8 projects using Python (Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, Tableau, and Machine Learning algorithms.
 
-• I love doing yoga, traveling and coding.
+• Studied Statistics and completed a Bachelor of Science degree in this field.
+
+• Passionate about coding, self-improvement, healthy living, traveling.
 
 
 ________________________
