@@ -34,7 +34,7 @@ https://github.com/gozdebarin/My_Portfolio_Projects
 
 - **Tableau Data Visualization & Dashboard Projects**  |  Tableau, SQL
 
-### 📉 Dashboard Projects
+### 📈 Dashboard Projects
 
 My Data Visualization Projects - Dashboards using **Tableau**:
 
