@@ -31,6 +31,8 @@ ________________________
 
 - **Montana State University A-B Testing** | Python (Pandas)
 
+________________________
+
 ### 📈 Dashboard Projects
 
 My Data Visualization Projects - Dashboards using **Tableau & SQL**:
