@@ -31,7 +31,6 @@ My Data Visualization Projects - Dashboards using **Tableau & SQL**:
 
 - [Retail Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/Dashboard_2d/Dashboard1)
 - [Employees Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/EmployeesAnalyticsDashboard/EmployeesAnalyticsDashboard)
-________________________
 
 ### 💻 Languages and Tools
 
