@@ -32,11 +32,9 @@ https://github.com/gozdebarin/My_Portfolio_Projects
 
 - **Montana State University A-B Testing** | Python (Pandas)
 
-- **Tableau Data Visualization & Dashboard Projects**  |  Tableau, SQL
-
 ### 📈 Dashboard Projects
 
-My Data Visualization Projects - Dashboards using **Tableau**:
+My Data Visualization Projects - Dashboards using **Tableau & SQL**:
 
 - [Retail Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/Dashboard_2d/Dashboard1)
 - [Employees Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/EmployeesAnalyticsDashboard/EmployeesAnalyticsDashboard)
