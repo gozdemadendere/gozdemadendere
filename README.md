@@ -1,16 +1,11 @@
 
  ### 📌 About
 
-- I'm a Data Scientist / Data Analyst.
-
-- After more than 3 years of experience in data analysis and interpretation, I've gained numerical and analytical skills, strong Excel skills, and also developed my communication and teamwork skills.
+- I'm a Data Scientist / Data Analyst. After more than 3 years of experience in data analysis and interpretation, I've gained numerical and analytical skills, strong Excel skills, and also developed my communication and teamwork skills.
 
 - I've always had a strong passion for improving my programming skills using Python and SQL, and I achieved this while attending an intensive & full-time Data Science Bootcamp at WBS Coding School.
 
-- Successfully completed 8 projects using Python (Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, Tableau, and Machine Learning algorithms.
-
 - Studied Statistics and completed a Bachelor of Science degree in this field.
-
 - Passionate about coding, self-improvement, healthy living, traveling.
 
 
