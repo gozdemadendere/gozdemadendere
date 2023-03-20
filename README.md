@@ -18,7 +18,7 @@ ________________________
 
 **This Github contains my Data Science/Analysis projects** using Python (Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, Tableau, Machine Learning Algorithms.
 
- You can see all **my portfolio projects** here : https://github.com/gozdebarin/My_Portfolio_Projects
+ 📌 You can see all **my portfolio projects** here : https://github.com/gozdebarin/My_Portfolio_Projects
 
 ________________________
 
