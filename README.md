@@ -6,6 +6,8 @@
 - I've always had a strong passion for improving my programming skills using Python and SQL, and I achieved this while attending an intensive & full-time Data Science Bootcamp at WBS Coding School.
 
 - Passionate about coding, self-improvement, healthy living, traveling.
+
+________________________
  
 ### 📊 Portfolio Projects
 
@@ -25,12 +27,16 @@
 
 - **Montana State University A-B Testing** | Python (Pandas)
 
+
+
 ### ⭐️ Dashboard Projects
 
 My Data Visualization Projects - Dashboards using **Tableau & SQL**:
 
 - [Retail Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/Dashboard_2d/Dashboard1)
 - [Employees Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/EmployeesAnalyticsDashboard/EmployeesAnalyticsDashboard)
+
+________________________
 
 ### 💻 Skiills
 
