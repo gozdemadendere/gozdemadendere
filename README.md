@@ -27,14 +27,11 @@ ________________________
 
 - **Montana State University A-B Testing** | Python (Pandas)
 
-
-
-### ⭐️ Dashboard Projects
-
-My Data Visualization Projects - Dashboards using **Tableau & SQL**:
-
 - [Retail Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/Dashboard_2d/Dashboard1)
+ 
 - [Employees Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/EmployeesAnalyticsDashboard/EmployeesAnalyticsDashboard)
+
+- **Interactive Excel Dashboard** | MS Excel
 
 ________________________
 
@@ -55,6 +52,8 @@ ________________________
 - **Machine Learning** | Scikit-Learn
 
 - **Recommender Systems**
+
+- **Microsoft Excel**
 
 ________________________
 
