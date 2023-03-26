@@ -11,27 +11,23 @@ ________________________
  
 ### 📊 Portfolio Projects
 
-[My Data Science portfolio projects](https://github.com/gozdebarin/My_Portfolio_Projects) using Python (Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, Tableau, Machine Learning.
+Here are [my Data Science portfolio projects](https://github.com/gozdebarin/My_Portfolio_Projects) using Python (Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, Tableau, Machine Learning.
 
-- **Data Driven Businesses**  |  SQL
+- [Data Driven Businesses](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/SQL%20Data%20Driven%20Businesses%20Project) |  SQL
+- [Eniac Data Cleaning and Storytelling](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Python%20Data%20Cleaning%20and%20Storytelling%20Project)  |  Python (Pandas, Seaborn, Matplotlib)
+- [House Prices Prediction - Supervised Machine learning](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/House%20Prices%20Prediction-Machine%20Learning) | Python (Scikit-Learn, Pandas)
+- [Spotify Clustering Songs - Unsupervised Machine learning](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Spotify%20Clustering%20Songs%20Unsupervised%20Machine%20Learning%20Project) | Python (Scikit-Learn, Pandas)
 
-- **Eniac Data Cleaning and Storytelling**  |  Python (Pandas, Seaborn, Matplotlib)
+- [Gans Data Engineering & Data Pipeline](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Gans%20Data%20Engineering%20Project) | Python (Pandas, Seaborn)
+- [Youtube Web Scraping - EDA Project](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Youtube%20Web%20Scraping%20-%20EDA%20Project) | Python (Pandas,Seaborn, Matplotlib)
 
-- **House Prices Prediction - Supervised Machine learning** | Python (Scikit-Learn, Pandas)
+- [Montana State University A-B Testing](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Montana%20S.%20University%20A-B%20Testing%20Project) | Python (Pandas)
 
-- **Spotify Clustering Songs - Unsupervised Machine learning** | Python (Scikit-Learn, Pandas)
-
-- **Gans Data Engineering & Data Pipeline** | Python (Pandas, Seaborn)
-
-- **Youtube Web Scraping - EDA Project** | Python (Pandas,Seaborn, Matplotlib)
-
-- **Montana State University A-B Testing** | Python (Pandas)
-
-- [Retail Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/Dashboard_2d/Dashboard1)
+- [Retail Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/Dashboard_2d/Dashboard1) | Tableau, SQL
  
-- [Employees Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/EmployeesAnalyticsDashboard/EmployeesAnalyticsDashboard)
+- [Employees Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/EmployeesAnalyticsDashboard/EmployeesAnalyticsDashboard) | Tableau, SQL
 
-- **Interactive Excel Dashboard** | MS Excel
+- [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
 
 ________________________
 
