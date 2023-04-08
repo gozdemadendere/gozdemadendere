@@ -24,9 +24,7 @@ Here are [my Data Science portfolio projects](https://github.com/gozdebarin/My_P
 
 - [Montana State University A-B Testing](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Montana%20S.%20University%20A-B%20Testing%20Project) | Python (Pandas)
 
-- [Retail Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/Dashboard_2d/Dashboard1) | Tableau, SQL
- 
-- [Employees Analytics Dashboard](https://public.tableau.com/app/profile/gozdebarin/viz/EmployeesAnalyticsDashboard/EmployeesAnalyticsDashboard) | Tableau, SQL
+- [Tableau Dashboard Projects](https://public.tableau.com/app/profile/gozdebarin) | Tableau
 
 - [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
 
@@ -40,7 +38,7 @@ ________________________
 
 - **Python** | Pandas, NumPy, Matplotlib, Seaborn
 
-- **Tableau** | Data visualization & data storytelling
+- **Tableau** | Data visualization & Data Storytelling
 
 - **A/B Testing** | Hypothesis Tests
 
