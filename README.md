@@ -24,7 +24,7 @@ Here are [my Data Science portfolio projects](https://github.com/gozdebarin/My_P
 
 - [Montana State University A-B Testing](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Montana%20S.%20University%20A-B%20Testing%20Project) | Python (Pandas)
 
-- [Tableau Dashboard Projects](https://public.tableau.com/app/profile/gozdebarin) | Tableau
+- [Tableau Dashboard Projects]([https://public.tableau.com/app/profile/gozdebarin](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Tableau%20Data%20Visualization%20Projects)) | Tableau
 
 - [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
 
