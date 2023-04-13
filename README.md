@@ -36,7 +36,7 @@ ________________________
 
 - **SQL** | Query and Data Modeling
 
-- **Python** | Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+- **Python** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
 
 - **Tableau** | Data Visualization & Data Storytelling
 
