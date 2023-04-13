@@ -32,13 +32,13 @@ ________________________
 
 ### 💻 Skiills
 
-<p align=   "left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="python" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-1024.png" alt="mysql" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/gozdebarin" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_0x.png" alt="matplotlib" width="40" height="40"/> </a> </p>
+<p align=   "left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="python" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-1024.png" alt="mysql" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/gozdebarin" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_0x.png" alt="matplotlib" width="40" height="40"/> </a>  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://global-uploads.webflow.com/62014002185c7b256316ef63/6255a1110a24e5de8cfa2536_kn7ucNPv_400x400.png" alt="streamlit" width="40" height="40"/> </a> </p>
 
-- **SQL** | Query and data modeling
+- **SQL** | Query and Data Modeling
 
-- **Python** | Pandas, NumPy, Matplotlib, Seaborn
+- **Python** | Pandas, NumPy, Matplotlib, Seaborn, Streamlit
 
-- **Tableau** | Data visualization & Data Storytelling
+- **Tableau** | Data Visualization & Data Storytelling
 
 - **A/B Testing** | Hypothesis Tests
 
