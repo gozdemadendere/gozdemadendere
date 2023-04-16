@@ -1,7 +1,7 @@
 
  ### 📌 About
 
-- I'm a Data Scientist / Data Analyst. I graduated with a bachelor's degree in Statistics and have 3 years of work experience. In my previous jobs, I was responsible for analyzing, interpreting, and visualizing data. I've gained numerical and analytical skills, strong Excel skills, and also developed my communication and teamwork skills.
+- I'm a Data Scientist / Data Analyst.  I have a Bachelor of Science in Statistics and have 3 years of work experience. In my previous jobs, I was responsible for analyzing, interpreting, and visualizing data. I've gained numerical and analytical skills, strong Excel skills, and also developed my communication and teamwork skills.
 
 - I've always had a strong passion for improving my programming skills using Python and SQL, and I achieved this after attending an intensive Data Science Bootcamp at WBS Coding School, Berlin, Germany.
 
