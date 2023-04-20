@@ -15,7 +15,7 @@ Here are [my portfolio projects](https://github.com/gozdebarin/My_Portfolio_Proj
 
 - [Heart Attack Prediction App ](https://github.com/gozdebarin/Heart_Attack_Prediction_App)| Supervised Machine Learning, Python (Scikit-Learn, Plotly, Pandas), Streamlit 
 - [Business Analysis & Data Exploration ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/SQL%20Business%20Analysis-Data%20Exploration) |  SQL, Tableau
-- [Eniac Data Cleaning and Storytelling](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Python%20Data%20Cleaning%20and%20Storytelling%20Project)  |  Python (Pandas, Seaborn, Matplotlib)
+- [Eniac Data Cleaning & Storytelling](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Eniac%20Data%20Cleaning%20and%20Storytelling%20Project)  |  Python (Pandas, Seaborn, Matplotlib)
 - [House Prices Prediction ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/House%20Prices%20Prediction-Machine%20Learning) | Supervised Machine Learning, Python (Scikit-Learn, Pandas)
 - [Spotify Clustering Songs ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Spotify%20Clustering%20Songs%20Unsupervised%20Machine%20Learning%20Project) | Unsupervised Machine Learning, Python (Scikit-Learn, Pandas)
 
