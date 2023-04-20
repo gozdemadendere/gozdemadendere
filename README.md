@@ -14,7 +14,7 @@ ________________________
 Here are [my Data Science portfolio projects](https://github.com/gozdebarin/My_Portfolio_Projects) using Python (Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, Tableau, Machine Learning.
 
 - [Heart Attack Prediction App - Supervised Machine learning ](https://github.com/gozdebarin/Heart_Attack_Prediction_App)| Streamlit, Python (Scikit-Learn, Plotly, Pandas)
-- [Data Driven Businesses](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/SQL%20Data%20Driven%20Businesses%20Project) |  SQL
+- [Eniac Business Analysis & Data Exploration | SQL (https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/SQL%20Data%20Driven%20Businesses%20Project) |  SQL
 - [Eniac Data Cleaning and Storytelling](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Python%20Data%20Cleaning%20and%20Storytelling%20Project)  |  Python (Pandas, Seaborn, Matplotlib)
 - [House Prices Prediction - Supervised Machine learning](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/House%20Prices%20Prediction-Machine%20Learning) | Python (Scikit-Learn, Pandas)
 - [Spotify Clustering Songs - Unsupervised Machine learning](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Spotify%20Clustering%20Songs%20Unsupervised%20Machine%20Learning%20Project) | Python (Scikit-Learn, Pandas)
