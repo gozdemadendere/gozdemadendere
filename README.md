@@ -1,5 +1,5 @@
 
- ### 📌 About
+ ### 📌 About Me
 
 - I'm a Data Scientist / Data Analyst.  I have a Bachelor of Science in Statistics and have 3 years of work experience. In my previous jobs, I was responsible for analyzing, interpreting, and visualizing data. I've gained numerical and analytical skills, strong Excel skills, and also developed my communication and teamwork skills.
 
@@ -24,7 +24,7 @@ ________________________
 
 ________________________
 
-### 💻 Skills
+### 💻 Technical Skills
 
 
 - **SQL** | Query and Data Modeling
