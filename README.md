@@ -18,7 +18,6 @@ ________________________
 - [Spotify Clustering Songs ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Spotify%20Clustering%20Songs%20Unsupervised%20Machine%20Learning%20Project) | Unsupervised Machine Learning, Python (Scikit-Learn, Pandas)
 - [Gans Data Engineering Pipeline](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Gans%20Data%20Engineering%20Project) | Python (BeautifulSoup, Pandas, Seaborn), Requests (API)
 - [A/B Testing - Montana University Website Homepage ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Montana%20S.%20University%20A-B%20Testing%20Project) | Python (Pandas)
-- [Youtube Web Scraping - EDA Project](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Youtube%20Web%20Scraping%20-%20EDA%20Project) | Python (Pandas, Seaborn, Matplotlib)
 - [Tableau Dashboard Projects](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Tableau%20Data%20Visualization%20Projects) | Tableau
 - [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
 
