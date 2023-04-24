@@ -34,7 +34,7 @@ ________________________
 
 - **Python** | Pandas,  Matplotlib, Seaborn, Plotly, Streamlit, NumPy, BeautifulSoup
 
-- **Tableau** | Data Visualization & Data Storytelling
+- **Tableau** | Data Visualization & Building Dashboards
 
 - **Machine Learning** | Scikit-Learn
 
