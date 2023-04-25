@@ -3,9 +3,9 @@
 
 
 
-- I have a Bachelor of Science in Statistics and have 3 years of work experience. In my previous jobs, I was responsible for analyzing, interpreting, visualizing data using Excel, Tableau, and basic SQL functions. Thus I've gained strong numerical and analytical skills,  and developed my communication and teamwork skills.
+- I have a Bachelor of Science in Statistics and have 3 years of work experience. In my previous jobs, I was responsible for analyzing, interpreting, visualizing data using Excel, basic SQL functions, and Tableau. Thus I've gained strong numerical and analytical skills, and developed my communication and teamwork skills.
 
-- I've always had a strong passion for improving my programming skills using Python and SQL, and I achieved this after attending an intensive Data Science Bootcamp at WBS Coding School, Berlin, Germany.
+- I've always had a strong passion for improving my programming skills using Python and advanced SQL, and I achieved this after attending an intensive Data Science Bootcamp at WBS Coding School, Berlin, Germany.
 
 - I've successfully completed about 10 projects using Python, SQL, Tableau, and Machine Learning algorithms.
 
