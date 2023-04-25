@@ -24,7 +24,7 @@
 - [Gans Data Engineering Pipeline](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Gans%20Data%20Engineering%20Project) | Python (BeautifulSoup, Pandas, Seaborn), Requests (API)
 - [Movie Recommender System](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Movie%20Recommender%20System) | Python (Scikit-Learn, Pandas)
 - [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
-- 
+
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
 
