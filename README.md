@@ -10,10 +10,10 @@
 - I've successfully completed about 10 projects using Python, SQL, Tableau, and Machine Learning algorithms.
 
 - I'm passionate about coding, continuous learning and traveling.
+- 
+<img width="1074" alt="Screen Shot 2023-04-25 at 10 53 56 PM" src="https://user-images.githubusercontent.com/90986708/234401219-76f6d84c-8567-4e23-9997-8cfcdebeefd0.png">
 
-________________________
- 
-### 📊 My Portfolio Projects
+
 
 - [Heart Attack Prediction App ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart%20Attack%20Prediction%20App-Machine%20Learning)| Supervised Machine Learning, Python (Scikit-Learn, Plotly, Pandas), Streamlit 
 - [Business Analysis & Data Exploration ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/SQL%20Business%20Analysis-Data%20Exploration) |  SQL, Tableau
