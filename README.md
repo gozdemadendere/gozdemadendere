@@ -9,7 +9,7 @@
 
 - I've successfully completed about 10 projects using Python, SQL, Tableau, and Machine Learning algorithms.
 
-- I'm passionate about coding, self-improvement, healthy living, traveling.
+- I'm passionate about coding, continuous learning and traveling.
 
 ________________________
  
