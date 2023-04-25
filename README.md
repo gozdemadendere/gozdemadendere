@@ -1,5 +1,4 @@
-<img width="1022" alt="Screen Shot 2023-04-25 at 10 34 55 PM" src="https://user-images.githubusercontent.com/90986708/234397405-795ceff0-614f-49d7-8a13-b8bc12a413d7.png">
-
+<img width="1227" alt="Screen Shot 2023-04-25 at 10 58 46 PM" src="https://user-images.githubusercontent.com/90986708/234402289-2080b628-88d7-42ef-a7f9-1e400473906c.png">
 
 
 
@@ -10,9 +9,8 @@
 - I've successfully completed about 10 projects using Python, SQL, Tableau, and Machine Learning algorithms.
 
 - I'm passionate about coding, continuous learning and traveling.
-- 
-<img width="1074" alt="Screen Shot 2023-04-25 at 10 53 56 PM" src="https://user-images.githubusercontent.com/90986708/234401219-76f6d84c-8567-4e23-9997-8cfcdebeefd0.png">
 
+<img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
 
 - [Heart Attack Prediction App ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart%20Attack%20Prediction%20App-Machine%20Learning)| Supervised Machine Learning, Python (Scikit-Learn, Plotly, Pandas), Streamlit 
@@ -26,8 +24,8 @@
 - [Gans Data Engineering Pipeline](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Gans%20Data%20Engineering%20Project) | Python (BeautifulSoup, Pandas, Seaborn), Requests (API)
 - [Movie Recommender System](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Movie%20Recommender%20System) | Python (Scikit-Learn, Pandas)
 - [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
-
-<img width="1213" alt="Screen Shot 2023-04-25 at 10 55 38 PM" src="https://user-images.githubusercontent.com/90986708/234401608-554e597d-ebcb-4484-9d5c-ccf9ce831330.png">
+- 
+<img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
 
 - **SQL** | Query and Data Modeling
@@ -48,7 +46,9 @@
 
 <p align=   "left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="python" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-1024.png" alt="mysql" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/gozdebarin" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_0x.png" alt="matplotlib" width="40" height="40"/> </a>  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://global-uploads.webflow.com/62014002185c7b256316ef63/6255a1110a24e5de8cfa2536_kn7ucNPv_400x400.png" alt="streamlit" width="40" height="40"/> </a> </p>
 
-<img width="1213" alt="Screen Shot 2023-04-25 at 10 55 52 PM" src="https://user-images.githubusercontent.com/90986708/234401685-21632111-fca7-4589-ad11-41cbe5264821.png">
+<img width="1227" alt="Screen Shot 2023-04-25 at 10 59 21 PM" src="https://user-images.githubusercontent.com/90986708/234402381-920efaf5-73d5-4d0a-ac8e-cbcd67a99398.png">
+
+
 
 
 <p align="left">
