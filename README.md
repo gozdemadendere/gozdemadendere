@@ -1,7 +1,9 @@
+<img width="1022" alt="Screen Shot 2023-04-25 at 10 32 59 PM" src="https://user-images.githubusercontent.com/90986708/234397012-53032bf1-bd5d-444d-8c1e-0f564c0b7849.png">
 
- ### 📌 About Me
 
-- I'm a Data Scientist / Data Analyst.  I have a Bachelor of Science in Statistics and have 3 years of work experience. In my previous jobs, I was responsible for analyzing, interpreting, visualizing data using Excel, Tableau, and basic SQL functions. Thus I've gained strong numerical and analytical skills,  and developed my communication and teamwork skills.
+
+
+- I have a Bachelor of Science in Statistics and have 3 years of work experience. In my previous jobs, I was responsible for analyzing, interpreting, visualizing data using Excel, Tableau, and basic SQL functions. Thus I've gained strong numerical and analytical skills,  and developed my communication and teamwork skills.
 
 - I've always had a strong passion for improving my programming skills using Python and SQL, and I achieved this after attending an intensive Data Science Bootcamp at WBS Coding School, Berlin, Germany.
 
