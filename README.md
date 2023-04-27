@@ -1,6 +1,6 @@
 <img width="1227" alt="Screen Shot 2023-04-27 at 11 28 12 AM" src="https://user-images.githubusercontent.com/90986708/234820915-a8760cfe-968c-4b2f-9f32-9f0493282feb.png">
 
-📌 I'm an accomplished Data Analyst / Data Scientist with a Bachelor of Science in Statistics and 3 years of experience. In my previous jobs, I successfully analyzed, interpreted big data sets, and identified key insights using Excel, basic SQL, and Tableau. Thus I've gained strong analytical skills, developed my communication and teamwork skills.
+📌 I'm an accomplished Data Scientist / Data Analyst with a Bachelor of Science in Statistics and 3 years of experience. In my previous jobs, I successfully analyzed, interpreted big data sets, and identified key insights using Excel, basic SQL, and Tableau. Thus I've gained strong analytical skills, developed my communication and teamwork skills.
 
 💻 I've always had a passion for improving my coding skills using advanced SQL and Python, and achieved this after attending an intensive Data Science Bootcamp at WBS Coding School, Berlin.
 
