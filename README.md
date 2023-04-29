@@ -1,9 +1,9 @@
 <img width="1227" alt="Screen Shot 2023-04-27 at 11 28 12 AM" src="https://user-images.githubusercontent.com/90986708/234820915-a8760cfe-968c-4b2f-9f32-9f0493282feb.png">
 
 
-📌 I'm a highly motivated Data Analyst / Data Scientist with a Bachelor of Science in Statistics and 3 years of work experience in data analysis, visualization, and interpretation using Excel, basic SQL, and Tableau. Thus, I've gained strong analytical skills, developed my communication & teamwork skills.
+📌 I'm a highly motivated Data Analyst / Data Scientist with a Bachelor of Science in Statistics and 3 years of work experience in data analysis, visualization, and interpretation using Excel, basic SQL, and Tableau. Thus, I've gained strong analytical & numerical skills, developed my communication & teamwork skills.
 
-💻 I've always had a strong passion for improving my coding skills using advanced SQL and Python, and achieved this after attending a 5-month Data Science Bootcamp at WBS Coding School, Berlin. 
+💻 I've always had a strong passion for improving my coding skills using Advanced SQL and Python, and achieved this after attending a 5-month Data Science Bootcamp at WBS Coding School, Berlin. 
 
 🗃 Throughout the bootcamp I've successfully completed 10 projects with Python, SQL, Tableau, and Machine Learning algorithms.
 
@@ -27,7 +27,7 @@
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
 
-- **SQL** | Query and Data Modeling
+- **Advanced SQL** | Query and Data Modeling
 - **Python** | Pandas,  Matplotlib, Seaborn, Plotly, Streamlit, NumPy, BeautifulSoup
 - **Tableau** | Building Dashboards & Data Visualization
 - **Machine Learning** | Scikit-Learn
