@@ -1,13 +1,13 @@
 <img width="1227" alt="Screen Shot 2023-04-27 at 11 28 12 AM" src="https://user-images.githubusercontent.com/90986708/234820915-a8760cfe-968c-4b2f-9f32-9f0493282feb.png">
 
 
-📌 I'm a highly motivated Data Analyst / Data Scientist with a Bachelor of Science in Statistics and 3 years of work experience in data analysis, visualization, and interpretation using SQL, Excel, and Tableau. Thus, I've gained strong analytical & numerical skills, developed my communication & teamwork skills.
+📌 As a highly motivated Data Analyst with a Bachelor of Science in Statistics and 3 years of work experience, in my previous jobs, I successfully analyzed and interpreted big data sets, and answered business questions using Excel, SQL, Tableau.  With a focus on enhancing my analytical skills and developing my teamwork abilities, I've delivered effective solutions to meet organizational goals.
 
-💻 I've always had a strong passion for improving my coding skills using Advanced SQL and Python, and achieved this after attending a 5-month Data Science Bootcamp at WBS Coding School, Berlin. 
+💻 I've always had a strong passion for improving my coding skills, particularly in advanced SQL and Python, and achieved this after attending a 5-month Data Science Bootcamp at WBS Coding School-Berlin.
 
-🗃 Throughout the bootcamp I've successfully completed 10 projects with Python, SQL, Tableau, and Machine Learning algorithms.
+🗃 Throughout the bootcamp I've successfully completed about 10 projects utilizing Python, SQL, Tableau, and Machine Learning algorithms.
 
-🎯 My goal is to use my skills and experience to help companies make data-driven decisions and achieve their business objectives.
+🎯 My goal is to leverage my skills and experience to help companies make data-driven decisions and attain their business objectives.
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
