@@ -32,7 +32,7 @@
 - **Tableau** | Building Dashboards & Data Visualization
 - **Machine Learning** | Scikit-Learn
 - **A/B Testing** | Hypothesis Tests
-- **Data Engineering** | Web Scraping, API Pipelines, AWS Cloud Computing
+- **Data Engineering** | Web Scraping, API Pipelines
 - **Recommender Systems**
 - **Microsoft** | Excel, Word, Powerpoint
 
