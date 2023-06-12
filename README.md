@@ -1,6 +1,6 @@
 <img width="1227" alt="Screen Shot 2023-04-27 at 11 28 12 AM" src="https://user-images.githubusercontent.com/90986708/234820915-a8760cfe-968c-4b2f-9f32-9f0493282feb.png">
 
-📌 I am a passionate and highly motivated Data Analyst with a Bachelor of Science in Statistics and 3 years of work experience. In my previous roles, I successfully analyzed and interpreted large datasets, using tools such as SQL, Excel, and Tableau, to provide actionable insights and answer key business questions. I am dedicated to continuously improving my analytical skills and thriving in collaborative team environments, consistently delivering effective solutions to drive organizational success.
+📌 I am an experienced and highly motivated Data Analyst. In my previous roles, I successfully analyzed and interpreted large datasets, using tools such as SQL, Excel, and Tableau, to provide actionable insights and answer key business questions. I am dedicated to continuously improving my analytical skills and thriving in collaborative team environments, consistently delivering effective solutions to drive organizational success.
 
 💻 I've always had a strong passion for improving my coding skills, particularly in Python and advanced SQL, and I honed my programming skills through a 5-month Data Science Bootcamp at WBS Coding School-Berlin.
 
