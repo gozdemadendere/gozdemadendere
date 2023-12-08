@@ -3,6 +3,7 @@
 <img width="1227" alt="Screen Shot 2023-04-27 at 11 28 12 AM" src="<img width="878" alt="234820915-a8760cfe-968c-4b2f-9f32-9f0493282feb" src="https://github.com/gozdemadendere/gozdemadendere/assets/90986708/153c26b5-b4ad-4684-9ecf-8abf247d0859">
  ">
 
+<img width="1375" alt="Screen Shot 2023-12-08 at 6 55 58 PM" src="https://github.com/gozdemadendere/gozdemadendere/assets/90986708/52581966-83b7-439f-9eff-f764100412c3">
 
 
 📌 I am an experienced and highly motivated Data Analyst. In my previous roles, I successfully analyzed and interpreted large datasets, using tools such as SQL, Excel, and Tableau, to provide actionable insights and answer key business questions. I am dedicated to continuously improving my analytical skills and thriving in collaborative team environments, consistently delivering effective solutions to drive organizational success.
