@@ -15,6 +15,7 @@
 
 - [Data Cleaning & Storytelling](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Eniac%20Data%20Cleaning%20and%20Storytelling%20Project)  |  Python (Pandas, Seaborn, Matplotlib)
 - [Exploratory Data Analysis (EDA) ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart%20Attack%20Exploratory%20Data%20Analysis)| Python (Plotly, Pandas, Seaborn, Matplotlib)
+- [RFM_Analysis_Customer_Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/FLO_RFM_Analysis_Customer_Segmentation) | Python (Pandas, Seaborn)
 - [Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/Customer_Segmentation_Process)  |  Python (Pandas)
 - [Business Analysis & Data Exploration ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/SQL%20Business%20Analysis-Data%20Exploration) |  SQL, Tableau
 - [Heart Attack Prediction App ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart_Attack_Prediction_App)| Supervised Machine Learning, Python (Scikit-Learn, Plotly, Pandas), Streamlit 
@@ -24,7 +25,7 @@
 - [Movie Recommender System](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Movie%20Recommender%20System) | Python (Scikit-Learn, Pandas)
 - [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
 - [Retail Analytics Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Tableau%20Data%20Visualization%20Projects) | Tableau (You can see the dashboard below.)
-
+  
 [(See my interactive Tableau dashboards here.)](https://public.tableau.com/app/profile/gozdemadendere/vizzes)
 <img width="1428" alt="Screen Shot 2023-12-20 at 5 51 44 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects/assets/90986708/1367e7fa-a558-4ca2-9128-8e5a39e90fc5">
 
