@@ -14,8 +14,8 @@
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
 - [Amazon - Rating Products & Sorting Reviews](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/Amazon_Rating_Products_Sorting_Reviews)  | Python
-- [FLO RFM Analysis & Customer Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_RFM_Analysis_Customer_Segmentation) | Python (Pandas, Seaborn)
-- [FLO Customer Lifetime Value Prediction](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_Customer_Lifetime_Value_Prediction)  | Python (Pandas)
+- [FLO - RFM Analysis & Customer Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_RFM_Analysis_Customer_Segmentation) | Python (Pandas, Seaborn)
+- [FLO - Customer Lifetime Value Prediction](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_Customer_Lifetime_Value_Prediction)  | Python (Pandas)
 - [Data Cleaning & Storytelling](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Eniac%20Data%20Cleaning%20and%20Storytelling%20Project)  |  Python (Pandas, Seaborn, Matplotlib)
 - [Exploratory Data Analysis (EDA) ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart%20Attack%20Exploratory%20Data%20Analysis)| Python (Plotly, Pandas, Seaborn, Matplotlib)
 - [Business Analysis & Data Exploration ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/SQL%20Business%20Analysis-Data%20Exploration) |  SQL, Tableau
