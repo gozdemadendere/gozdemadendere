@@ -18,8 +18,9 @@
 - [FLO - Customer Lifetime Value Prediction](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/FLO_Customer_Lifetime_Value_Prediction)  | Python (Pandas)
 - [Data Cleaning & Storytelling](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Eniac%20Data%20Cleaning%20and%20Storytelling%20Project)  |  Python (Pandas, Seaborn, Matplotlib)
 - [Exploratory Data Analysis (EDA) ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart%20Attack%20Exploratory%20Data%20Analysis)| Python (Plotly, Pandas, Seaborn, Matplotlib)
-- [A/B Testing - Comparison of 2 Bidding Methods](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Two_Sample_T_Test)  |  Python
 - [Business Analysis & Data Exploration ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/SQL%20Business%20Analysis-Data%20Exploration) |  SQL, Tableau
+- [A/B Testing - Comparison of 2 Bidding Methods](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Two_Sample_T_Test)  |  Python
+- [A/B Testing - Comparison of Montana State University Website Buttons](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Chi_Square_Test)  |  Python
 - [Heart Attack Prediction App ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart_Attack_Prediction_App)| Supervised Machine Learning, Python (Scikit-Learn, Plotly, Pandas), Streamlit 
 - [House Prices Prediction ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/House%20Prices%20Prediction-Machine%20Learning) | Supervised Machine Learning, Python (Scikit-Learn, Pandas)
 - [Spotify Clustering Songs ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Spotify%20Clustering%20Songs%20Unsupervised%20Machine%20Learning%20Project) | Unsupervised Machine Learning, Python (Scikit-Learn, Pandas)
