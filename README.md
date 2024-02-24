@@ -22,7 +22,7 @@
 - [A/B Testing - Comparison of 2 Bidding Methods](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Two_Sample_T_Test)  |  Python
 - [A/B Testing - Comparison of Montana State University Website Buttons](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/AB_Testing_Project_Chi_Square_Test)  |  Python
 - [Armut - Association Rule Based Recommender](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/Armut_Association_Rule_Based_Recommender) | Python
-- [Hybrid Recommender System](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/Hybrid_Recommender_System) | Python
+- [Movie Recommender System](https://github.com/gozdemadendere/My_Portfolio_Projects_/tree/main/Hybrid_Recommender_System) | Python
 
 - [Heart Attack Prediction App ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart_Attack_Prediction_App)| Supervised Machine Learning, Python (Scikit-Learn, Plotly, Pandas), Streamlit 
 - [House Prices Prediction ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/House%20Prices%20Prediction-Machine%20Learning) | Supervised Machine Learning, Python (Scikit-Learn, Pandas)
