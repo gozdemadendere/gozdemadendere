@@ -3,9 +3,7 @@
 
 📌 I am an experienced and highly motivated Data Scientist / Data Analyst with a Bachelor of Science in Statistics. In my previous roles, I analyzed and interpreted large datasets, using tools such as SQL, Excel, and Tableau, to provide actionable insights and answer key business questions. 
 
-💻 I've always had a strong passion for improving my coding skills, especially in Python and advanced SQL. To this end, I honed my programming skills through two Data Science bootcamps: Miuul ad WBS Coding School-Berlin.
-
-🗃 During the bootcamps, I completed many projects that showcased my knowledge of Python, SQL, Tableau, and the implementation of various Machine Learning algorithms.
+💻 I've always had a strong passion for improving my coding skills, especially in Python and advanced SQL. To this end, I honed my programming skills through two Data Science bootcamps: Miuul ad WBS Coding School-Berlin. During the bootcamps, I completed many projects that showcased my knowledge of Python, SQL, Tableau, and the implementation of various Machine Learning algorithms.
 
 🎯 My ultimate goal is to use my passion and skills for leveraging data to demonstrate my skills to help organizations make data-driven decisions and achieve their strategic business goals.
 
