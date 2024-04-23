@@ -1,7 +1,7 @@
 <img width="1375" alt="Screen Shot 2023-12-08 at 6 55 58 PM" src="https://github.com/gozdemadendere/gozdemadendere/assets/90986708/52581966-83b7-439f-9eff-f764100412c3">
 
 
-📌 Highly motivated and experienced Data Analyst / Data Scientist who is committed to analyzing large datasets and delivering insightful analyses to answer key business questions. 
+📌 Highly motivated and experienced Data Analyst / Data Scientist who is committed to analyzing large datasets and providing insightful insights to answer key business questions.
 
 🎯 Dedicated to continuously learning, delivering effective solutions, and enthusiastic about helping companies make data-driven decisions and achieve their strategic business goals.
 
