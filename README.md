@@ -24,6 +24,7 @@
 - [E-Commerce Analytics Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Tableau%20Data%20Visualization%20Projects) | Tableau (You can see the dashboard below.)
   
 [(See my interactive Tableau dashboards here.)](https://public.tableau.com/app/profile/gozdemadendere/vizzes)
+
 <img width="1280" alt="Screen Shot 2024-05-05 at 11 01 56 PM" src="https://github.com/gozdemadendere/gozdemadendere/assets/90986708/5a714596-a179-4945-a618-d805fc664202">
 
 
