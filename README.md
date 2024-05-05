@@ -21,10 +21,12 @@
 - [Movie Recommender System](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/Hybrid_Recommender_System) | Python
 - [House Prices Prediction ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/House%20Prices%20Prediction-Machine%20Learning) | Supervised Machine Learning, Python (Scikit-Learn, Pandas)
 - [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
-- [Retail Analytics Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Tableau%20Data%20Visualization%20Projects) | Tableau (You can see the dashboard below.)
+- [E-Commerce Analytics Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Tableau%20Data%20Visualization%20Projects) | Tableau (You can see the dashboard below.)
   
 [(See my interactive Tableau dashboards here.)](https://public.tableau.com/app/profile/gozdemadendere/vizzes)
-<img width="1428" alt="Screen Shot 2023-12-20 at 5 51 44 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects/assets/90986708/1367e7fa-a558-4ca2-9128-8e5a39e90fc5">
+<img width="1280" alt="Screen Shot 2024-05-05 at 11 01 56 PM" src="https://github.com/gozdemadendere/gozdemadendere/assets/90986708/5a714596-a179-4945-a618-d805fc664202">
+
+
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
