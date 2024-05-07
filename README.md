@@ -25,7 +25,8 @@
 
 [(See my interactive Tableau dashboards here.)](https://public.tableau.com/app/profile/gozdemadendere/vizzes)
 
-<img width="1280" alt="Screen Shot 2024-05-05 at 11 01 56 PM" src="https://github.com/gozdemadendere/gozdemadendere/assets/90986708/5a714596-a179-4945-a618-d805fc664202">
+<img width="1284" alt="Screen Shot 2024-05-07 at 1 26 20 PM" src="https://github.com/gozdemadendere/gozdemadendere/assets/90986708/8f270f82-63e8-4c34-8b1f-870a5e7e41b9">
+
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
