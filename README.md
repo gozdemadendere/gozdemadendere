@@ -11,6 +11,7 @@
 - [E-Commerce Analytics Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Tableau%20Data%20Visualization%20Projects) | Tableau (You can see the dashboard below.)
 - [FLO - RFM Analysis & Customer Segmentation](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/FLO_RFM_Analysis_Customer_Segmentation) | Python (Pandas, Seaborn)
 - [FLO - Customer Lifetime Value Prediction](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/FLO_Customer_Lifetime_Value_Prediction)  | Python (Pandas)
+- [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/Customer_Segmentation_Process)
 - [Data Cleaning & Storytelling](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Eniac%20Data%20Cleaning%20and%20Storytelling%20Project)  |  Python (Pandas, Seaborn, Matplotlib)
 - [Heart Attack Prediction App ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/Heart_Attack_Prediction_App)| Supervised Machine Learning, Python (Scikit-Learn, Plotly, Pandas), Streamlit
 - [Amazon - Rating Products & Sorting Reviews](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/Amazon_Rating_Products_Sorting_Reviews)  | Python
@@ -18,7 +19,6 @@
 - [Exploratory Data Analysis (EDA)](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/Heart%20Attack%20Exploratory%20Data%20Analysis) |  Python (Pandas, Plotly, Seaborn, Matplotlib)
 - [A/B Testing - Comparison of 2 Bidding Methods](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/AB_Testing_Project_Two_Sample_T_Test)  |  Python
 - [A/B Testing - Comparison of Montana State University Website Buttons](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/AB_Testing_Project_Chi_Square_Test)  |  Python
-- [Rule Based Customer Segmentation Process](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/Customer_Segmentation_Process)
 - [Movie Recommender System](https://github.com/gozdemadendere/My_Portfolio_Projects/tree/main/Hybrid_Recommender_System) | Python
 - [House Prices Prediction ](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/House%20Prices%20Prediction-Machine%20Learning) | Supervised Machine Learning, Python (Scikit-Learn, Pandas)
 - [Interactive Excel Dashboard](https://github.com/gozdebarin/My_Portfolio_Projects/tree/main/MS%20Excel%20Interactive%20Dashboard) | MS Excel
