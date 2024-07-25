@@ -1,7 +1,7 @@
 <img width="1375" alt="Screen Shot 2023-12-08 at 6 55 58 PM" src="https://github.com/gozdemadendere/gozdemadendere/assets/90986708/52581966-83b7-439f-9eff-f764100412c3">
 
 
-📌 📌 Highly motivated and goal-driven Data Analyst / Business Analyst with a Bachelor of Science in Statistics and 4 years of work experience. Proficient in uncovering complex business requirements, analyzing large datasets, and extracting actionable insights using SQL, Tableau BI Tool, and Python.
+📌 Highly motivated and goal-driven Data Analyst / Business Analyst with a Bachelor of Science in Statistics and 4 years of work experience. Proficient in uncovering complex business requirements, analyzing large datasets, and extracting actionable insights using SQL, Tableau BI Tool, and Python.
  
 🎯 Dedicated to continuously learning, delivering effective solutions, and enthusiastic about helping companies make data-driven decisions and achieve their strategic business goals.
 
