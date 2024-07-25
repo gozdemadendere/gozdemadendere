@@ -30,9 +30,9 @@
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
-- **Python** | Pandas,  Matplotlib, Seaborn, Plotly, Streamlit, NumPy, BeautifulSoup
 - **SQL** | Query and Data Modeling
 - **Tableau** | Building Dashboards & Data Visualization
+- **Python** | Pandas,  Matplotlib, Seaborn, Plotly, Streamlit, NumPy, BeautifulSoup
 - **Machine Learning** | Scikit-Learn
 - **A/B Testing** | Hypothesis Tests
 - **CRM Analytics** | RFM Customer Segmentation, CLV Prediction
