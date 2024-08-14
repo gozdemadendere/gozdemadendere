@@ -3,7 +3,7 @@
 
 📌 Highly motivated and goal-driven Data Analyst / Business Analyst with a Bachelor of Science in Statistics and 4 years of work experience. Proficient in uncovering complex business requirements, analyzing large datasets, and extracting actionable insights using SQL, Tableau BI Tool, and Python.
  
-🎯 Dedicated to continuously learning, delivering effective solutions, and enthusiastic about helping companies make data-driven decisions and achieve their strategic business goals. 
+🎯 Dedicated to continuously learning, delivering effective solutions, and enthusiastic about helping companies make data-driven decisions and achieve their strategic business goals.  
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
